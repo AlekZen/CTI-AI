@@ -2,23 +2,23 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Integracion</Name>
-    <LastWriteTime>2020-08-03T14:46:40.3381982Z</LastWriteTime>
+    <LastWriteTime>2020-08-03T21:56:54.0059473Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>CTI Master.dtsx</Name>
-      <LastWriteTime>2020-08-01T21:38:09.2612149Z</LastWriteTime>
+      <LastWriteTime>2020-08-03T18:05:50.1886179Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Package1.dtsx</Name>
-      <LastWriteTime>2020-08-01T21:38:09.2622114Z</LastWriteTime>
+      <LastWriteTime>2020-08-03T18:05:50.2006181Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>ETL Comercial.dtsx</Name>
-      <LastWriteTime>2020-08-03T14:50:18.5668513Z</LastWriteTime>
+      <LastWriteTime>2020-08-03T22:15:38.3206832Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
