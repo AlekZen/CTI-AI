@@ -109,6 +109,32 @@ GO
 
 ALTER DATABASE [V6] SET  READ_WRITE 
 GO
+USE [V6]
+GO
+
+/****** Object:  Schema [AI]    Script Date: 03/08/2020 05:38:52 p. m. ******/
+CREATE SCHEMA [AI]
+GO
+
+USE [V6]
+GO
+
+/****** Object:  Schema [DIM]    Script Date: 03/08/2020 05:39:00 p. m. ******/
+CREATE SCHEMA [DIM]
+GO
+
+USE [V6]
+GO
+
+/****** Object:  Schema [STG]    Script Date: 03/08/2020 05:39:07 p. m. ******/
+CREATE SCHEMA [STG]
+GO
+
+
+
+
+
+
 
 
 USE [V6]
